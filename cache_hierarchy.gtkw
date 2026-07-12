@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.90 (w)1999-2018 BSI
+[*] Mon Jul 06 00:37:05 2026
+[*]
+[dumpfile] "C:\Users\rafae\OneDrive\Documentos\Unipampa\Projeto Integrador IV\Q-Learning (1)\Q-Learning (1)\Q-Learning\software\rtl\cache_hierarchy.vcd"
+[dumpfile_mtime] "Sun Jul 05 22:44:21 2026"
+[dumpfile_size] 13926
+[savefile] "C:\Users\rafae\OneDrive\Documentos\Unipampa\Projeto Integrador IV\Q-Learning (1)\Q-Learning (1)\Q-Learning\software\rtl\cache_hierarchy.gtkw"
+[timestart] 0
+[size] 1536 841
+[pos] -165 -165
+*-17.581230 175500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_cache_hierarchy.
+[treeopen] tb_cache_hierarchy.dut.
+[treeopen] tb_cache_hierarchy.dut.l2.
+[treeopen] tb_cache_hierarchy.dut.l2.qcore.
+[sst_width] 197
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 346
+@24
+tb_cache_hierarchy.dut.l2.qcore.clk
+tb_cache_hierarchy.dut.l2.qcore.rst
+tb_cache_hierarchy.dut.l2.qcore.start
+tb_cache_hierarchy.dut.l2.qcore.state[9:0]
+tb_cache_hierarchy.dut.l2.qcore.hit
+tb_cache_hierarchy.dut.l2.qcore.busy
+tb_cache_hierarchy.dut.l2.qcore.done
+tb_cache_hierarchy.dut.l2.qcore.victim_way
+tb_cache_hierarchy.dut.l2.qcore.q0_dbg[31:0]
+tb_cache_hierarchy.dut.l2.qcore.q1_dbg[31:0]
+tb_cache_hierarchy.dut.l2.qcore.new_q_dbg[31:0]
+tb_cache_hierarchy.dut.l2.qcore.state_d3_dbg[9:0]
+tb_cache_hierarchy.dut.l2.qcore.action_d3_dbg
+tb_cache_hierarchy.dut.l2.qcore.wr_table
+tb_cache_hierarchy.dut.l2.fsm[2:0]
+tb_cache_hierarchy.dut.l2.req
+tb_cache_hierarchy.dut.l2.addr[15:0]
+tb_cache_hierarchy.dut.l2.done
+tb_cache_hierarchy.dut.l2.hit0
+tb_cache_hierarchy.dut.l2.hit1
+tb_cache_hierarchy.dut.l2.mem_access
+tb_cache_hierarchy.dut.l2.q_start
+tb_cache_hierarchy.dut.l2.q_start_dbg
+tb_cache_hierarchy.dut.l2.q_done
+tb_cache_hierarchy.dut.l2.q_victim_way
+[pattern_trace] 1
+[pattern_trace] 0

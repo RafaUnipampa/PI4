@@ -1,0 +1,68 @@
+[*]
+[*] GTKWave Analyzer v3.3.90 (w)1999-2018 BSI
+[*] Mon Jul 06 03:20:07 2026
+[*]
+[dumpfile] "C:\Users\rafae\OneDrive\Documentos\Unipampa\Projeto Integrador IV\Q-Learning (1)\Q-Learning (1)\Q-Learning\software\rtl\cache_hierarchy_traces.vcd"
+[dumpfile_mtime] "Mon Jul 06 01:30:39 2026"
+[dumpfile_size] 40361
+[savefile] "C:\Users\rafae\OneDrive\Documentos\Unipampa\Projeto Integrador IV\Q-Learning (1)\Q-Learning (1)\Q-Learning\software\rtl\cache_hierarchy_traces.gtkw"
+[timestart] 1178800
+[size] 1536 841
+[pos] -113 -113
+*-17.000000 654000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_cache_hierarchy.
+[treeopen] tb_cache_hierarchy.dut.
+[treeopen] tb_cache_hierarchy.dut.l2.qcore.
+[sst_width] 314
+[signals_width] 238
+[sst_expanded] 1
+[sst_vpaned_height] 238
+@28
+tb_cache_hierarchy.clk
+tb_cache_hierarchy.done
+tb_cache_hierarchy.l1_hit
+@22
+tb_cache_hierarchy.l1_hit_count[31:0]
+tb_cache_hierarchy.l1_miss_count[31:0]
+@28
+tb_cache_hierarchy.l2_hit
+@22
+tb_cache_hierarchy.l2_hit_count[31:0]
+@28
+tb_cache_hierarchy.mem_access
+@22
+tb_cache_hierarchy.mem_access_count[31:0]
+tb_cache_hierarchy.qlearning_call_count[31:0]
+@28
+tb_cache_hierarchy.req
+tb_cache_hierarchy.rst
+@22
+tb_cache_hierarchy.total_access_count[31:0]
+@28
+tb_cache_hierarchy.dut.fsm[2:0]
+tb_cache_hierarchy.dut.l1_req
+tb_cache_hierarchy.dut.l2_req
+tb_cache_hierarchy.dut.l1_fill_en
+@22
+tb_cache_hierarchy.dut.addr_reg[15:0]
+tb_cache_hierarchy.dut.total_access_count[31:0]
+tb_cache_hierarchy.dut.l2_hit_count[31:0]
+tb_cache_hierarchy.dut.mem_access_count[31:0]
+tb_cache_hierarchy.dut.qlearning_call_count[31:0]
+@28
+tb_cache_hierarchy.dut.l2.req
+@22
+tb_cache_hierarchy.dut.l2.addr[15:0]
+@28
+tb_cache_hierarchy.dut.l2.done
+tb_cache_hierarchy.dut.l2.hit
+tb_cache_hierarchy.dut.l2.miss
+tb_cache_hierarchy.dut.l2.mem_access
+tb_cache_hierarchy.dut.l2.q_start
+tb_cache_hierarchy.dut.l2.q_start_dbg
+tb_cache_hierarchy.dut.l2.q_done
+tb_cache_hierarchy.dut.l2.q_victim_way
+tb_cache_hierarchy.dut.l2.hit0
+tb_cache_hierarchy.dut.l2.hit1
+[pattern_trace] 1
+[pattern_trace] 0

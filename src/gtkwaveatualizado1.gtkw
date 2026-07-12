@@ -1,0 +1,82 @@
+[*]
+[*] GTKWave Analyzer v3.3.90 (w)1999-2018 BSI
+[*] Sun Jul 12 00:44:18 2026
+[*]
+[dumpfile] "C:\Users\rafae\OneDrive\Documentos\Unipampa\Projeto Integrador IV\Q-Learning (1)\Q-Learning (1)\Q-Learning\software\rtl\src\cache_hierarchy_traces.vcd"
+[dumpfile_mtime] "Sat Jul 11 23:12:34 2026"
+[dumpfile_size] 49573
+[savefile] "C:\Users\rafae\OneDrive\Documentos\Unipampa\Projeto Integrador IV\Q-Learning (1)\Q-Learning (1)\Q-Learning\software\rtl\src\gtkwaveatualizado1.gtkw"
+[timestart] 739000
+[size] 1536 841
+[pos] -1 -1
+*-19.000000 1714000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_cache_hierarchy.
+[treeopen] tb_cache_hierarchy.dut.
+[treeopen] tb_cache_hierarchy.dut.l2.
+[sst_width] 197
+[signals_width] 319
+[sst_expanded] 1
+[sst_vpaned_height] 237
+@22
+tb_cache_hierarchy.addr[15:0]
+tb_cache_hierarchy.dut.addr_reg[15:0]
+@28
+tb_cache_hierarchy.dut.done
+tb_cache_hierarchy.dut.l1_fill_en
+tb_cache_hierarchy.dut.l1_hit
+@22
+tb_cache_hierarchy.dut.l1_hit_count[31:0]
+tb_cache_hierarchy.dut.l1_miss_count[31:0]
+@28
+tb_cache_hierarchy.dut.l1_req
+tb_cache_hierarchy.dut.l2_hit
+@22
+tb_cache_hierarchy.dut.l2_hit_count[31:0]
+@24
+tb_cache_hierarchy.dut.l2_req
+tb_cache_hierarchy.dut.mem_access
+tb_cache_hierarchy.dut.mem_access_count[31:0]
+tb_cache_hierarchy.dut.qlearning_call_count[31:0]
+tb_cache_hierarchy.dut.rst
+tb_cache_hierarchy.dut.total_access_count[31:0]
+tb_cache_hierarchy.clk
+tb_cache_hierarchy.req
+@800029
+#{tb_cache_hierarchy.rst} tb_cache_hierarchy.rst
+@c00029
+#{tb_cache_hierarchy.rst} tb_cache_hierarchy.rst
+@24
+tb_cache_hierarchy.rst
+@1401201
+-group_end
+@1001201
+-group_end
+@24
+tb_cache_hierarchy.dut.l2.addr_reg[15:0]
+tb_cache_hierarchy.dut.l2.done
+tb_cache_hierarchy.dut.l2.fsm[2:0]
+tb_cache_hierarchy.dut.l2.hit
+tb_cache_hierarchy.dut.l2.mem_access
+tb_cache_hierarchy.dut.l2.miss
+tb_cache_hierarchy.dut.l2.q_done_dbg
+tb_cache_hierarchy.dut.l2.q_start
+tb_cache_hierarchy.dut.l2.q_start_dbg
+tb_cache_hierarchy.dut.l2.q_state[9:0]
+tb_cache_hierarchy.dut.l2.q_victim_reg[2:0]
+tb_cache_hierarchy.dut.l2.q_victim_way_dbg[2:0]
+tb_cache_hierarchy.dut.l2.rst
+tb_cache_hierarchy.dut.l2.qcore.action_d3_dbg[2:0]
+tb_cache_hierarchy.dut.l2.qcore.busy
+tb_cache_hierarchy.dut.l2.qcore.clk
+tb_cache_hierarchy.dut.l2.qcore.done
+tb_cache_hierarchy.dut.l2.qcore.en_regs_dbg
+tb_cache_hierarchy.dut.l2.qcore.rst
+tb_cache_hierarchy.dut.l2.qcore.start
+tb_cache_hierarchy.dut.l2.qcore.state[9:0]
+tb_cache_hierarchy.dut.l2.qcore.state_d3_dbg[9:0]
+tb_cache_hierarchy.dut.l2.qcore.victim_way[2:0]
+tb_cache_hierarchy.dut.l2.qcore.wr_table_dbg
+tb_cache_hierarchy.dut.l2.qcore.write_en_dbg
+tb_cache_hierarchy.dut.l2.qcore.write_way_dbg[2:0]
+[pattern_trace] 1
+[pattern_trace] 0

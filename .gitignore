@@ -1,0 +1,25 @@
+# Quartus generated files
+src/db/
+src/incremental_db/
+src/output_files/
+db/
+incremental_db/
+output_files/
+
+# Simulation generated files
+*.vcd
+*.fst
+*.lxt
+*.out
+*.exe
+
+# Build/backup folders
+build/
+Backup/
+
+# Temporary/editor files
+.vscode/
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
